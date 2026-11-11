@@ -58,10 +58,15 @@ Meu objetivo é conectar tecnologia e necessidades de negócio, transformando da
 **💰 Data Fintech — Plataforma Integrada de Gestão Financeira**  
 Projeto autoral em desenvolvimento para reunir a gestão financeira pessoal e empresarial. Entre as funcionalidades planejadas estão controle de receitas, despesas e fluxo de caixa, dashboards, indicadores, gestão de contas, cartões e investimentos, além de análises e insights.  
 **Tecnologias:** React, JavaScript, Python, Google Apps Script, Google Sheets e integrações com APIs.
+[Documentação do projeto](./projects/data-fintech/README.md).
 
 **📊 Data Analytics & Business Intelligence**  
 Projetos de análise exploratória, tratamento e visualização de dados, com foco na criação de indicadores e identificação de oportunidades de negócio.  
 **Tecnologias:** Python, Pandas, SQL, Power BI e Excel.
+
+**Outros projetos:** [Contabilizei](./projects/contabilizei/README.md) · [Leroy Merlin](./projects/leroy-merlin/README.md) · [FIAP Challenge](./projects/fiap-challenge/README.md) · [Melhores Compras](./projects/melhores-compras/README.md) · [Estatística com Python](./projects/python-statistic/).
+
+**📚 Estudos de Python:** [Fundamentos de Python — Alura](./learning/python/fundamentos-python-alura/README.md).
 
 ### 📈 GitHub Analytics
 
@@ -125,10 +130,15 @@ I aim to connect technology with business needs by turning data into clear analy
 **💰 Data Fintech — Integrated Financial Management Platform**  
 An independent project in development to bring personal and business financial management together. Planned features include revenue, expense, and cash flow tracking; dashboards and metrics; account, card, and investment management; and financial analysis and insights.  
 **Technologies:** React, JavaScript, Python, Google Apps Script, Google Sheets, and API integrations.
+[Project documentation](./projects/data-fintech/README.md).
 
 **📊 Data Analytics & Business Intelligence**  
 Projects focused on exploratory analysis, data preparation, and visualization, with an emphasis on building metrics and identifying business opportunities.  
 **Technologies:** Python, Pandas, SQL, Power BI, and Excel.
+
+**Other projects:** [Contabilizei](./projects/contabilizei/README.md) · [Leroy Merlin](./projects/leroy-merlin/README.md) · [FIAP Challenge](./projects/fiap-challenge/README.md) · [Melhores Compras](./projects/melhores-compras/README.md) · [Statistics with Python](./projects/python-statistic/).
+
+**📚 Python learning:** [Python Fundamentals — Alura](./learning/python/fundamentos-python-alura/README.md).
 
 ### 📈 GitHub Analytics
 
@@ -192,10 +202,15 @@ Mi objetivo es conectar la tecnología con las necesidades del negocio, transfor
 **💰 Data Fintech — Plataforma Integrada de Gestión Financiera**  
 Proyecto propio en desarrollo para integrar la gestión financiera personal y empresarial. Entre las funcionalidades previstas se encuentran el control de ingresos, gastos y flujo de caja; dashboards e indicadores; gestión de cuentas, tarjetas e inversiones; y análisis e insights financieros.  
 **Tecnologías:** React, JavaScript, Python, Google Apps Script, Google Sheets e integraciones con APIs.
+[Documentación del proyecto](./projects/data-fintech/README.md).
 
 **📊 Data Analytics & Business Intelligence**  
 Proyectos centrados en el análisis exploratorio, el tratamiento y la visualización de datos, con énfasis en crear indicadores e identificar oportunidades de negocio.  
 **Tecnologías:** Python, Pandas, SQL, Power BI y Excel.
+
+**Otros proyectos:** [Contabilizei](./projects/contabilizei/README.md) · [Leroy Merlin](./projects/leroy-merlin/README.md) · [FIAP Challenge](./projects/fiap-challenge/README.md) · [Melhores Compras](./projects/melhores-compras/README.md) · [Estadística con Python](./projects/python-statistic/).
+
+**📚 Estudios de Python:** [Fundamentos de Python — Alura](./learning/python/fundamentos-python-alura/README.md).
 
 ### 📈 Estadísticas de GitHub
 
